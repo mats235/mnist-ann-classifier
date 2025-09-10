@@ -37,8 +37,4 @@ This project implements a simple **Artificial Neural Network (ANN)** using **Ten
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mats235/mnist-ann-classifier.git
-   cd mnist-ann-classifier
+
